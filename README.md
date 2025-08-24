@@ -22,3 +22,7 @@ A visually engaging and searchable interactive periodic table built with **HTML*
    git clone https://github.com/sameer-saifi1b/interactive-periodic-table.git
    ```
 2. Open index.html in any modern web browser.
+
+## Live Demo
+
+[View on GitHub Pages](https://sameer-saifi1b.github.io/interactive-periodic-table/)
